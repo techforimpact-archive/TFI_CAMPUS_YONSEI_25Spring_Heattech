@@ -8,8 +8,8 @@
 ---
 
 ## 📁 폴더 구조
-├── FE/ # 프론트엔드(React)
-├── BE/ # 백엔드(Spring Boot)
+├── FE/ # 프론트엔드(React) <br>
+├── BE/ # 백엔드(Spring Boot) <br>
 └── README.md
 
 
@@ -17,9 +17,10 @@
 
 ## 🚀 실행 방법
 
-### 1. FE (React)
+
 
 ```bash
+### 1. FE (React)
 cd FE
 npm install          # 패키지 설치
 npm start            # 로컬 개발 서버 실행 (http://localhost:3000)
